@@ -30,7 +30,7 @@ Users should be able to:
 
 
 - Solution URL: [https://github.com/hamze-kabi/social-links-profile/tree/main](https://github.com/hamze-kabi/social-links-profile/tree/main)
-- Live Site URL: [Social-links-profile](https://hamze-kabi.github.io/Social-links-profile/)
+- Live Site URL: [Social-links-profile](https://hamze-kabi.github.io/social-links-profile/)
 
 ## My process
 
