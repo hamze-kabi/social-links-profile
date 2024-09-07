@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile version screenshot](screenshots/recipe-page-mobile-screenshot.jpg)
+![Mobile version screenshot](https://github.com/hamze-kabi/social-links-profile/blob/main/social%20links%20profile%20-%20mobile%20version%20screenshot%20-%20frontendmentor.html.png)
 
 [Desktop version screenshot](https://github.com/hamze-kabi/social-links-profile/blob/main/social%20links%20profile%20-%20desktop%20version%20screenshot%20-%20frontendmentor.html.png)
 
