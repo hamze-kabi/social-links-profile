@@ -59,5 +59,4 @@ Users should be able to:
 
 ## Author
 
-- Github - [https://github.com/HamzeKabi](https://github.com/HamzeKabi)
-- Frontend Mentor - [@HamzeKabi](https://www.frontendmentor.io/profile/HamzeKabi)
+- Github - [https://github.com/hamze-kabi](https://github.com/hamze-kabi)
