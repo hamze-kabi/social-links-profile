@@ -25,8 +25,8 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile version screenshot](https://github.com/hamze-kabi/social-links-profile/blob/main/social%20links%20profile%20-%20mobile%20version%20screenshot%20-%20frontendmentor.html.png)
-[Desktop version screenshot](https://github.com/hamze-kabi/social-links-profile/blob/main/social%20links%20profile%20-%20mobile%20version%20screenshot%20-%20frontendmentor.html.png)
 
+[Desktop version screenshot](https://github.com/hamze-kabi/social-links-profile/blob/main/social%20links%20profile%20-%20desktop%20version%20screenshot%20-%20frontendmentor.html.png)
 
 
 - Solution URL: [hamze-kabi/Social-links-profile - html file](https://github.com/hamze-kabi/Social-links-profile/blob/2cc9d1e154467e734a9697748c3dc0df4d1b6cfd/index.html)
